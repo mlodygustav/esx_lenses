@@ -9,7 +9,7 @@
 
 #COLORS:
 
-1 <span style="color: black;">BLACK</span> </br>
+  1 black</br>
   2 very light blue/green</br>
   3 dark blue</br>
   4 brown</br>
