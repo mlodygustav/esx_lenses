@@ -5,7 +5,9 @@
 [LINK](https://discord.gg/rrHFBmf)
 
 
-COLORS:
+<hr>
+
+#COLORS:
 
   1 black </br>
   2 very light blue/green</br>
