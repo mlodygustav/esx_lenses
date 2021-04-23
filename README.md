@@ -2,7 +2,7 @@
 
 COLORS:
 
-  1 black
+  1 black </br>
   2 very light blue/green
   3 dark blue
   4 brown
